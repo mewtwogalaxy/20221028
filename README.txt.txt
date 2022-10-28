@@ -7,3 +7,4 @@ actually 3rd commit
 5th commit is going to be done.
 6th commit, is it clear ?
 where is 6th commit ?
+before branching, there is something important
