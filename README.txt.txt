@@ -8,3 +8,4 @@ actually 3rd commit
 6th commit, is it clear ?
 where is 6th commit ?
 new branch is not applied here
+before branching, there is something important
