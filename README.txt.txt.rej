@@ -1,0 +1,9 @@
+diff a/README.txt.txt b/README.txt.txt	(rejected hunks)
+@@ -1,2 +1,4 @@
+ good morning
+-this is the first trial for git
+\ No newline at end of file
++this is the first trial for git
++why don't you commit ?
++now 2nd commit
+\ No newline at end of file
